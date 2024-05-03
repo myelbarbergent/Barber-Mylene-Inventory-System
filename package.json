@@ -1,0 +1,16 @@
+{
+  "name": "mylene-server",
+  "version": "1.0.0",
+  "description": "A simple express.js server using ES module format",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "node server.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
